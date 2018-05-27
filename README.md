@@ -16,6 +16,6 @@ To try out the service you can copypaste this line into your browser
 
 > http://localhost:5000/squareIntersection?width=2&height=2&x=1&y=1
 > or
-http://127.0.0.1:5000/circleIntersection?radius=2&x=1&y=1
+> http://127.0.0.1:5000/circleIntersection?radius=2&x=1&y=1
 
 Enjoy :)
